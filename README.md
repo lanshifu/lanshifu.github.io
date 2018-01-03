@@ -1,0 +1,2 @@
+# lanshifu.github.io
+index
